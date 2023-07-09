@@ -1,4 +1,4 @@
-# Banking-Website
+# Finance Management Website
 Preview
 
 ![image](https://github.com/Prakash-Mondal/Banking-Website/assets/86885987/ab2cc389-a784-4f91-8f86-2db0d6e30cdd)
